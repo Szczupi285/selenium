@@ -96,6 +96,7 @@ C:\Users\Bartek\source\repos\Sel\Sel\obj\Debug\net7.0\Sel.GeneratedMSBuildEditor
 C:\Users\Bartek\source\repos\Sel\Sel\obj\Debug\net7.0\Sel.AssemblyInfoInputs.cache
 C:\Users\Bartek\source\repos\Sel\Sel\obj\Debug\net7.0\Sel.AssemblyInfo.cs
 C:\Users\Bartek\source\repos\Sel\Sel\obj\Debug\net7.0\Sel.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\Sel\Sel\obj\Debug\net7.0\Sel.sourcelink.json
 C:\Users\Bartek\source\repos\Sel\Sel\obj\Debug\net7.0\Sel.csproj.Up2Date
 C:\Users\Bartek\source\repos\Sel\Sel\obj\Debug\net7.0\Sel.dll
 C:\Users\Bartek\source\repos\Sel\Sel\obj\Debug\net7.0\refint\Sel.dll

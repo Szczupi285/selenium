@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "traWkaNwVkERVIeZRxNOoTN1K5FB0vmYJVEqUJbStPTpDlBqKEDmYn1HgvhZ6wBjwRs8iYWIZ5Q8ooVVRjiYhw==",
+  "dgSpecHash": "HhgF679W4vz7ZHR7V2xVdjVbyywfGUQSjsQhyNMRlPjiNZROEAh4zOi38ZGMikOqN3PTRohpOzqfNfWv+j2Y0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bartek\\source\\repos\\Sel\\Sel\\Sel.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,8 @@
     "C:\\Users\\Bartek\\.nuget\\packages\\selenium.support\\4.21.0\\selenium.support.4.21.0.nupkg.sha512",
     "C:\\Users\\Bartek\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512",
     "C:\\Users\\Bartek\\.nuget\\packages\\selenium.webdriver.chromedriver\\126.0.6478.6100\\selenium.webdriver.chromedriver.126.0.6478.6100.nupkg.sha512",
+    "C:\\Users\\Bartek\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.34.0\\selenium.webdriver.geckodriver.0.34.0.nupkg.sha512",
+    "C:\\Users\\Bartek\\.nuget\\packages\\selenium.webdriver.msedgedriver\\126.0.2592.61\\selenium.webdriver.msedgedriver.126.0.2592.61.nupkg.sha512",
     "C:\\Users\\Bartek\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []

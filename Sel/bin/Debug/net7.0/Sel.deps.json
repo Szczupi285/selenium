@@ -15,6 +15,8 @@
           "Selenium.Support": "4.21.0",
           "Selenium.WebDriver": "4.21.0",
           "Selenium.WebDriver.ChromeDriver": "126.0.6478.6100",
+          "Selenium.WebDriver.GeckoDriver": "0.34.0",
+          "Selenium.WebDriver.MSEdgeDriver": "126.0.2592.61",
           "coverlet.collector": "3.2.0"
         },
         "runtime": {
@@ -341,6 +343,8 @@
         }
       },
       "Selenium.WebDriver.ChromeDriver/126.0.6478.6100": {},
+      "Selenium.WebDriver.GeckoDriver/0.34.0": {},
+      "Selenium.WebDriver.MSEdgeDriver/126.0.2592.61": {},
       "System.Reflection.Metadata/1.6.0": {}
     }
   },
@@ -454,6 +458,20 @@
       "sha512": "sha512-68Y0FHY++st9Xg+TI8FMGjz3xsuKjUc4QrC+Pi1uoZHDvulECqkiLBmvUvbQweDmITwsPf43LR21W44dhpwXgA==",
       "path": "selenium.webdriver.chromedriver/126.0.6478.6100",
       "hashPath": "selenium.webdriver.chromedriver.126.0.6478.6100.nupkg.sha512"
+    },
+    "Selenium.WebDriver.GeckoDriver/0.34.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eRCqp63F975z+bAZqAAb3exiDrcoWwJWHaO5wvMd9OPPd3akc8JorDvweKnF4/DKA8KFNspHGj+4zWz7Zlwguw==",
+      "path": "selenium.webdriver.geckodriver/0.34.0",
+      "hashPath": "selenium.webdriver.geckodriver.0.34.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.MSEdgeDriver/126.0.2592.61": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/jK6+6G5t/OEu/Wydz2WZeIBPK4kBy0JGQvnMWVm2zNkCxVqLJxA6ixX5Kqn5b7AifeVklasbMpyvbmw+yEKzg==",
+      "path": "selenium.webdriver.msedgedriver/126.0.2592.61",
+      "hashPath": "selenium.webdriver.msedgedriver.126.0.2592.61.nupkg.sha512"
     },
     "System.Reflection.Metadata/1.6.0": {
       "type": "package",

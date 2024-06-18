@@ -13,17 +13,18 @@ namespace Sel.BaseClass
 
         public IWebDriver driver;
 
-        [OneTimeSetUp]
+        [SetUp]
         public void Open()
         {
             driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
             driver.Url = "https://web.archive.org/web/20151227004932/https://www.facebook.com/";
         }
-        [OneTimeTearDown]
+        [TearDown]
         public void Close()
         {
             driver.Quit();
+
         }
     }
 }
